@@ -5,9 +5,4 @@ console.log("Hello World")
 function myfunction(){
     console.log("Hello")
 }
-
-function myfunction(){
-    console.log("Hello")
-}
-
 //there is some changes
